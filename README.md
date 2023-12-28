@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simon Kenny Panigrahi</h1>
 <h3 align="center">A passionate Coder from India</h3>
-
+<img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonpanigrahi&label=Profile%20views&color=0e75b6&style=flat" alt="simonpanigrahi" /> </p>
 
-- 🔭 I’m currently working on **DaanFlow**
-
-- 🌱 I’m currently learning **AWS, MERN, Linux**
+- 💬 Ask me about **Indian Stock Market and Geopolitics**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/simonkp](https://linktr.ee/simonkp)
-
-- 💬 Ask me about **Indian Stock Market and Geopolitics**
 
 - 📫 How to reach me **spanigrahi22@vssut.ac.in**
 
@@ -32,7 +28,7 @@
 <p><a href="https://www.buymeacoffee.com/simonkenny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simonkenny" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonpanigrahi&show_icons=true&locale=en&layout=compact" alt="simonpanigrahi" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonpanigrahi&show_icons=true&locale=en&layout=compact" alt="simonpanigrahi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonpanigrahi&show_icons=true&locale=en" alt="simonpanigrahi" /></p>
 
