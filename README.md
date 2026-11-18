@@ -1,6 +1,6 @@
 ## Hi, I'm Simon Kenny Panigrahi
 
-**Computer Vision & ML researcher-in-training · Final-year B.Tech IT @ VSSUT Burla (2026) · Odisha, India**
+**ML engineer building practical AI that runs offline and on low-cost devices · B.Tech IT, VSSUT Burla (2026) · Odisha, India**
 
 I build applied machine learning systems at the intersection of deep learning and classical feature engineering, with a focus on computer vision problems in healthcare and agriculture.
 
@@ -19,8 +19,8 @@ I build applied machine learning systems at the intersection of deep learning an
 
 | Organisation | Role | Period |
 |---|---|---|
-| **C-DOT — Centre for Development of Telematics, GoI** | ML Researcher Intern | May–Jul 2025 |
-| **LogicLens Solutions Pvt. Ltd.** | ML Engineer Intern | Mar–Jul 2024 |
+| **C-DOT — Centre for Development of Telematics, GoI** | Student Intern Trainee (AI/ML) | May–Jun 2025 |
+| **LogicLens Solutions Pvt. Ltd.** | Software Engineer Intern (Computer Vision) | Mar–Jul 2024 |
 
 At C-DOT I worked directly under a Scientist 'E' (Speech Processing, ML, Optical Networks) on LLM-based telecom data analysis pipelines and independently studied federated learning architectures. At LogicLens I built real-time multi-object detection and tracking systems using YOLOv8 + OpenCV + SORT.
 
